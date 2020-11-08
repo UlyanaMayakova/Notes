@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="edit_text">Напишите что-нибудь</string>
+    <string name="save_btn">Сохранить</string>
+</resources>
